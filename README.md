@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="assets/banner.gif" width="100%" alt="banner" />
+<img src="banner.png" width="100%" alt="banner" />
 
 <h1 align="center">🚀 Diego Lazcano — Builder of Cool, Fast & Beautiful Things</h1>
 
