@@ -65,15 +65,15 @@ I’m a **full-stack engineer and founder** who turns messy, unstructured ideas 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=roiaddicts&show_icons=true&theme=tokyonight&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roiaddicts&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stars-lyart.vercel.app/api?username=roiaddicts&show_icons=true&theme=tokyonight&count_private=true" height="180"/>
+  <img src="https://github-readme-stars-lyart.vercel.app/api/top-langs/?username=roiaddicts&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=roiaddicts&theme=dracula&margin-w=15&margin-h=15&no-bg=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=roiaddicts&theme=dracula&margin-w=15&margin-h=15&no-bg=true&rank=-C,-B,-?&column=-1" />
 </p>
 
 ---
