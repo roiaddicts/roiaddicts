@@ -34,7 +34,7 @@ I’m a **full-stack engineer and founder** who turns messy, unstructured ideas 
 
 ### **Languages**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,postgresql,dart,go,java,html,css,rust" />
+  <img src="https://skillicons.dev/icons?i=python,go,rust,javascript,typescript,postgresql,dart,html,css" />
   <img src="https://img.shields.io/badge/GLSL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" />
   <img src="https://img.shields.io/badge/Liquid-0A99E1?style=for-the-badge&logo=shopify&logoColor=white" />
 </p>
